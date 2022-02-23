@@ -1,0 +1,1 @@
+Inital exploration of models done through google colab notebooks for each type of data (RGB, thermal, LiDAR)
